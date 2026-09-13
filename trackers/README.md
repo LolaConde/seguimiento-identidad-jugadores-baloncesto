@@ -1,0 +1,3 @@
+Para seleccionar los trackers, en primer lugar se ajustan los hiperparámetros en el conjunto de entrenamiento de SportsMOT, utilizando únicamente los vídeos de baloncesto. Una vez fijados los hiperparámetros, se comparan entre sí en el conjunto de validación.
+
+Dado que este repositorio tiene como objetivo mostrar experimentos clave y reflejar cómo trabajo, se incluye una única selección de hiperparámetros, correspondiente a OC-SORT, en la carpeta `seleccion_hiperparametros_OCSORT`. Además, la comparativa entre todos los trackers en el conjunto de evaluación se encuentra en la carpeta `comparativa_trackers`.
