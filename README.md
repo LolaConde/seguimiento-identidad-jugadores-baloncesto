@@ -50,3 +50,8 @@ A partir de las trayectorias e identidades obtenidas por el sistema, el trabajo 
 ![Posesión del balón](img/ejemplo_resultados/posesion_balon.png)
 
 > El código de generación de métricas y gráficas no forma parte de la selección publicada en este repositorio.
+
+## Tutorización
+
+Alberto Ruiz García y Juan Jesús Losada del Olmo.
+Universidad de Murcia. Máster en Inteligencia Artificial.
